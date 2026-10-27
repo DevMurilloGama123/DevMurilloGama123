@@ -13,7 +13,7 @@ Atualmente, estou direcionando meus estudos para o desenvolvimento de software, 
 Utilizo este GitHub para documentar minha evolução, compartilhar exercícios e desenvolver projetos práticos.
 
 ## 🛠️ Tecnologias e conhecimentos
-
+[![Tecnologias](https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark)](https://skillicons.dev)
 - **Linguagem:** Python (fundamentos)
 - **Ferramentas:** VS Code, Git e GitHub
 - **Conceitos:** Lógica de programação, funções, estruturas de dados e modularização
